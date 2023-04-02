@@ -1,5 +1,6 @@
 # IMDB-database
-### 1. Design and ERD diagram for with the given requirements
+### 1. Design an ERD diagram with the given requirements (check the [Link ERD diagram](https://github.com/Krutikmehta/IMDB-database/blob/main/24_assgn/ERD.png)
+)
 ### 2. Scrap the relevant datata from internet
 ### 3. Create the database schema using the ERD
 ### 4. populate the database
